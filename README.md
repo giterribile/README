@@ -13,7 +13,7 @@ Aplicativo web para visualização de dados de anúncios de vendas de carros.
 http://localhost:8501/
 
 ## Tecnologias 
-- Bibliotecas: Pandas, Plotly
+- Bibliotecas: Pandas, Plotly, Streamlit
 - Visualização: Histograma, Gráfico de dispersão
 
 ## Execução:
