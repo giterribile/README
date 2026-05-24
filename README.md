@@ -10,7 +10,7 @@ Aplicativo web para visualização de dados de anúncios de vendas de carros.
 - Gráfico de dispersão
 
 ## Acesse o aplicativo 
-http://localhost:8501/
+http://localhost:10000/
 
 ## Tecnologias 
 - Bibliotecas: Pandas, Plotly, Streamlit
