@@ -14,7 +14,7 @@ http://localhost:10000/
 
 ## Tecnologias 
 - Bibliotecas: Pandas, Plotly, Streamlit
-- Visualização: Histograma, Gráfico de dispersão
+- Visualização: Histograma
 
 ## Execução:
  - Leitura de dados e tratamento
@@ -22,8 +22,7 @@ http://localhost:10000/
  - Criação do gráfico de dispersão via px.scatter
 
 ## Resultados:
-- Insights do Histograma: A maior parte dos carros está na faixa de 0-0.2M quilometros rodados.
-- Insights d
+- Insights do Histograma: Um histograma mostra a distribuição dos dados, como os valores estão espalhados e quais aparecem com mais frequência. Nesse exemplo, o eixo horizontal (x) mostra a quilometragem do carro e o eixo vertical (Y) a quantidade (count). A maior parte dos carros está na faixa de 0-200 mil quilômetros rodados e uma parcela baixa está com a quilometragem mais alta. O que significa que muitos carros têm uma quilometragem média e poucos carros marcam uma quilometragem alta.
 
 ## Autor:
-
+Concebido e desenvolvido por Giovana Terribile
