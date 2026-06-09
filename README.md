@@ -10,7 +10,7 @@ Aplicativo web para visualização de dados de anúncios de vendas de carros.
 - Gráfico de dispersão
 
 ## Acesse o aplicativo 
-http://localhost:10000/
+https://readme-2-1obn.onrender.com
 
 ## Tecnologias 
 - Bibliotecas: Pandas, Plotly, Streamlit
